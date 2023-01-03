@@ -3,7 +3,7 @@
 ## This needs to be built into the make system
 
 if [ -z "$1" ]; then
-	VSN="9.8.0"
+	VSN="10.23.0"
 else
 	VSN="$1"
 fi
